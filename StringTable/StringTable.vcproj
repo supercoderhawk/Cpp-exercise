@@ -201,10 +201,6 @@
 				>
 			</File>
 			<File
-				RelativePath=".\List.h"
-				>
-			</File>
-			<File
 				RelativePath=".\StringTable.h"
 				>
 			</File>
