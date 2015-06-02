@@ -1,7 +1,7 @@
 //标识符作用域练习
 #include<iostream>
 
-//定义World类
+//World类
 class World
 {
 private:
