@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++exercise", "C++exercise\C++exercise.vcproj", "{D3A3A146-65B5-4645-9E31-7E6910CB27AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringTable", "StringTable\StringTable.vcproj", "{2F7681AE-798D-42B6-AB0C-B3FB77A4BDE4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator_Cmd", "Calculator_Cmd\Calculator_Cmd.vcproj", "{0F640836-DBF3-4179-87B7-7AD58DC7104B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A3A146-65B5-4645-9E31-7E6910CB27AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3A3A146-65B5-4645-9E31-7E6910CB27AE}.Debug|Win32.Build.0 = Debug|Win32
+		{D3A3A146-65B5-4645-9E31-7E6910CB27AE}.Release|Win32.ActiveCfg = Release|Win32
+		{D3A3A146-65B5-4645-9E31-7E6910CB27AE}.Release|Win32.Build.0 = Release|Win32
+		{2F7681AE-798D-42B6-AB0C-B3FB77A4BDE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F7681AE-798D-42B6-AB0C-B3FB77A4BDE4}.Debug|Win32.Build.0 = Debug|Win32
+		{2F7681AE-798D-42B6-AB0C-B3FB77A4BDE4}.Release|Win32.ActiveCfg = Release|Win32
+		{2F7681AE-798D-42B6-AB0C-B3FB77A4BDE4}.Release|Win32.Build.0 = Release|Win32
+		{0F640836-DBF3-4179-87B7-7AD58DC7104B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F640836-DBF3-4179-87B7-7AD58DC7104B}.Debug|Win32.Build.0 = Debug|Win32
+		{0F640836-DBF3-4179-87B7-7AD58DC7104B}.Release|Win32.ActiveCfg = Release|Win32
+		{0F640836-DBF3-4179-87B7-7AD58DC7104B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
