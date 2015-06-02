@@ -1,7 +1,7 @@
 //定义字符串缓冲器与字符串表
 #ifndef STRINGTABLE_H_
 #define STRINGTABLE_H_
-#include "HashTable.h"
+#include "HashTable.h"  
 
 //定义字符串缓冲器，实质是一个字符串数组
 //声明缓冲器最大接收的字符数
@@ -9,7 +9,7 @@ const int MAXBUFSIZE=500;
 class StringBuffer
 {
 public:
-	//定义构造函数，初始化偏移量为0
+	//构造函数，初始化偏移量为0
 	StringBuffer():curOffset(0){}
 	//析构函数
 	~StringBuffer(){}

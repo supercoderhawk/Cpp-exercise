@@ -25,7 +25,7 @@ void HashTable::Add(const char *str, int id)
 
 }
 
-//返回字符串所在的短列表
+//得到字符串所在的短列表链表
 const List& HashTable::Find(const char *str) const
 {
 	//获得索引

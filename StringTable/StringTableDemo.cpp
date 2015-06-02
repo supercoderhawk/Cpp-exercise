@@ -1,4 +1,4 @@
-//测试字符串表的功能
+//测试字符串表的功能的main函数
 #ifndef _IOSTREAM_
 #include<iostream>
 #endif

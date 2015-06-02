@@ -1,4 +1,4 @@
-//作用域练习
+//标识符作用域练习
 #include<iostream>
 
 //定义World类

@@ -22,7 +22,7 @@ private:
 	//定义哈希函数
 	int Hash(const char* str) const;
 	//定义短列表
-	List shortList[LISTSIZE];
+	List shortList[LISTSIZE];  
 
 };
 #endif

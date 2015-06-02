@@ -1,6 +1,8 @@
 //缓冲器类与字符串表类的实现文件
 #include "StringTable.h"
+#ifndef _IOSTREAM_
 #include<iostream>
+#endif
 #include<assert.h>
 
 //缓冲器类StringBuffer的实现
